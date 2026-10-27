@@ -1,0 +1,8 @@
+# Ignore raw injested documents
+docs/raw
+
+# Obsidian: per-session UI state
+.obsidian
+.trash/
+.DS_Store
+
