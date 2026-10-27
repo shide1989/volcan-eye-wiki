@@ -1,5 +1,5 @@
 # Ignore raw injested documents
-docs/raw
+raw
 
 # Obsidian: per-session UI state
 .obsidian
